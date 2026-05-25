@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+env/
+
+# Python build
+backend_python/build/
+backend_python/dist/
+backend_python/*.spec
+
+# SQLite database
+backend_python/data/
+*.db
+*.sqlite
+*.sqlite3
+
+# Qt / CMake build
+frontend_qt/build/
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+*.cmake
+Makefile
+*.ninja
+.ninja_*
+
+# Qt Creator user settings
+*.user
+*.user.*
+*.autosave
+
+# Release package
+release_app/
+*.exe
+*.dll
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+frontend_qt/config.json

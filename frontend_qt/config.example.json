@@ -1,0 +1,15 @@
+{
+  "backend": {
+    "pythonPath": "C:/Path/To/python.exe",
+    "workingDir": "D:/Path/To/backend_python",
+    "host": "127.0.0.1",
+    "port": 8000
+  },
+  "pet": {
+    "characterImage": "D:/Path/To/frontend_qt/assets/character.png",
+    "width": 420,
+    "height": 300,
+    "marginRight": 30,
+    "marginBottom": 80
+  }
+}

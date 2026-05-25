@@ -1,0 +1,15 @@
+{
+  "backend": {
+    "pythonPath": "",
+    "workingDir": "",
+    "host": "127.0.0.1",
+    "port": 8000
+  },
+  "pet": {
+    "characterImage": "D:/Naratake/Naratake_v_001/asserts/character.jpg",
+    "width": 420,
+    "height": 300,
+    "marginRight": 30,
+    "marginBottom": 80
+  }
+}
